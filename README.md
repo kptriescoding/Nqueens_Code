@@ -20,5 +20,5 @@
 19.  [Subset sum](https://www.geeksforgeeks.org/backttracking-set-4-subset-sum/)
 20.  [Tug of war](https://www.geeksforgeeks.org/tug-of-war/)
 
-#The link to the simulation website is
+# The link to the simulation website is
 https://kptriescoding.github.io/DTL_Backtracking/
