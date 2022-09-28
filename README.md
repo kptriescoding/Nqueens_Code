@@ -20,5 +20,12 @@
 19.  [Subset sum](https://www.geeksforgeeks.org/backttracking-set-4-subset-sum/)
 20.  [Tug of war](https://www.geeksforgeeks.org/tug-of-war/)
 
+# Some Important Books are
+
+1. [Introduction to the Design and Analysis of Algorithms (3rd ed.)](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%20%283rd%20ed.%29%20%5BLevitin%202011-10-09%5D.pdf)
+2. [Introduction_to_Algorithms_Third_Edition_(2009)](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
+![image](https://user-images.githubusercontent.com/86453921/192705186-91dafebc-a49b-4670-8350-16c2a2d8b3a3.png)
+)
+
 # The link to the simulation website is
 https://kptriescoding.github.io/DTL_Backtracking/
